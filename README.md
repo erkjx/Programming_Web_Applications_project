@@ -3,12 +3,12 @@ A web application created for classes in the subject: Programming web applicatio
 The application allows you to:
 1) Creating a user account
 2) Login to the application
-     2A) Logged in user:
-         a) Adding a car
-         b) Displaying all cars of the logged in user
-         c) Changing the car data of the logged in user
-         d) Deleting the logged in user's car
-         e) Logging out of the application
+  3) Logged in user:                   
+     a) Adding a car                    
+     b) Displaying all cars of the logged in user       
+     c) Changing the car data of the logged in user                      
+     d) Deleting the logged in user's car                      
+     e) Logging out of the application                     
 
 
 -- Database: `projekt`

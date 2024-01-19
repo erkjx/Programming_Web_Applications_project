@@ -43,10 +43,6 @@ CREATE TABLE `user` (
 )
 
 --
--- Indeksy dla zrzutów tabel
---
-
---
 -- Indeksy dla tabeli `car`
 --
 ALTER TABLE `car`
@@ -67,10 +63,6 @@ ALTER TABLE `user`
   ADD UNIQUE KEY `email` (`email`);
 
 --
--- AUTO_INCREMENT for dumped tables
---
-
---
 -- AUTO_INCREMENT for table `car`
 --
 ALTER TABLE `car`
@@ -81,10 +73,6 @@ ALTER TABLE `car`
 --
 ALTER TABLE `user`
   MODIFY `id` int(11) NOT NULL AUTO_INCREMENT;
-
---
--- Constraints for dumped tables
---
 
 --
 -- Constraints for table `car`
